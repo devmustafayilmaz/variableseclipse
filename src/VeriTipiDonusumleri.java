@@ -44,7 +44,8 @@ public class VeriTipiDonusumleri {
 		float kilo = 76.5F;
 		double boy = 182.4;
 		char karakterimiz = 'a';
-		
+		long classs= 3L;
+
 		String stringsira = String.valueOf(sira);
 		String stringyil = String.valueOf(yil);
 		String stringsinif = String.valueOf(sinif);
@@ -59,6 +60,7 @@ public class VeriTipiDonusumleri {
 		System.out.println(stringkilo);
 		System.out.println(stringboy);
 		System.out.println(stringkarakterimiz);
+		System.out.println(classs);
 		
 		
 		
